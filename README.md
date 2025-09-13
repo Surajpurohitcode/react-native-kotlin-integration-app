@@ -159,11 +159,9 @@ Battery Level: 87%
 
 ## 🖼 Screenshots
 
-| Login                           | Users List                    | User Detail                       | Battery Module Output                     |
-| ------------------------------- | ----------------------------- | --------------------------------- | ----------------------------------------- |
-| ![Login](screenshots/login.png) | ![List](screenshots/list.png) | ![Detail](screenshots/detail.png) | ![Battery](screenshots/native_module.png) |
-
----
+| Login | Users List | User Detail |
+|-------|------------|------------|
+| ![Login](screenshots/react_app_sc_login.jpeg) | ![List](screenshots/react_app_sc_list.jpeg) | ![Detail](screenshots/react_app_sc_1.jpeg) |
 
 ## ⚙️ Setup Instructions
 
@@ -255,5 +253,5 @@ Password: test@456
 
 ## 🎬 Demo
 
-*(Optional: include GIF/video of app)*
-[APK for Testing](link-to-apk)
+[Click to watch the demo video](screenshots/demo-video_oSqIobJc.mp4)
+[APK for Testing](https://drive.google.com/file/d/1S7l42p-sCyTpO1fwHY284QhSHwNQM_Hv/view?usp=sharing)
